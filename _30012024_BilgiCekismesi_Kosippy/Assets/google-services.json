@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "530023956363",
+    "project_id": "bilgicekismesi",
+    "storage_bucket": "bilgicekismesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530023956363:android:07472bf2b9489d2a10398e",
+        "android_client_info": {
+          "package_name": "com.kosippystudio.bilgicekismesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530023956363-lecedkmokj4cfatqdlegam86u7vk02j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kosippystudio.bilgicekismesi",
+            "certificate_hash": "e56ce82911f7795d946a044f813cbea561de141a"
+          }
+        },
+        {
+          "client_id": "530023956363-qic1md35m0qvtlslo9i5pe14bo5vkf2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAR-DpDFcf3NEK6P2QYkq55H2TVwsTVx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530023956363-qic1md35m0qvtlslo9i5pe14bo5vkf2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

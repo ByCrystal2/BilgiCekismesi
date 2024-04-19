@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">530023956363</string>
+  <string name="google_storage_bucket" translatable="false">bilgicekismesi.appspot.com</string>
+  <string name="project_id" translatable="false">bilgicekismesi</string>
+  <string name="google_api_key" translatable="false">AIzaSyCAR-DpDFcf3NEK6P2QYkq55H2TVwsTVx4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCAR-DpDFcf3NEK6P2QYkq55H2TVwsTVx4</string>
+  <string name="google_app_id" translatable="false">1:530023956363:android:07472bf2b9489d2a10398e</string>
+  <string name="default_android_client_id" translatable="false">530023956363-lecedkmokj4cfatqdlegam86u7vk02j0.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">530023956363-qic1md35m0qvtlslo9i5pe14bo5vkf2m.apps.googleusercontent.com</string>
+</resources>
